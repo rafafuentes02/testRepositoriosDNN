@@ -1,0 +1,20 @@
+﻿[ModuleAction:{controlKey : "Edit", securityAccessLevel : "Edit",  titleKey: "EditModule", localResourceFile: "~/DesktopModules/Julius.ContentLibrary.Migrate/App_LocalResources/View.resx" }]
+
+<div id="Items-[ModuleContext:ModuleId]">
+    <label>Api key</label>
+    <input type="text" class="form-control" name="key-source" />
+    <input type="button" class="btn btn-primary" value="Consultar" onclick="get()" />
+
+    <select name="combo-filter-content-type" class="form-control">
+        <option value="">Seleccione</option>
+    </select>
+
+    <div id="wrap-content-type">
+        <input type="button" value="Sincronizar" />
+    </div>
+</div>
+
+<script language="javascript" type="text/javascript">
+    var contentLibraryMigrateId = parseInt("[ModuleContext:ModuleId]");
+</script>
+<script src="/DesktopModules/Julius.ContentLibrary.Migrate/scripts/ItemView.js"></script>

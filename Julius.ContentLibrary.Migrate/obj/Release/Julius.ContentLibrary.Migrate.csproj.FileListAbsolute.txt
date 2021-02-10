@@ -1,0 +1,7 @@
+C:\Julius\Corporativo\dnn.julius2grow.com.co\bin\Julius.ContentLibrary.Migrate.dll.config
+C:\Julius\Corporativo\dnn.julius2grow.com.co\bin\Julius.ContentLibrary.Migrate.dll
+C:\Julius\Corporativo\dnn.julius2grow.com.co\bin\Julius.ContentLibrary.Migrate.pdb
+C:\Julius\Corporativo\dnn.julius2grow.com.co\DesktopModules\Julius.ContentLibrary.Migrate\obj\Release\Julius.ContentLibrary.Migrate.csprojAssemblyReference.cache
+C:\Julius\Corporativo\dnn.julius2grow.com.co\DesktopModules\Julius.ContentLibrary.Migrate\obj\Release\Julius.ContentLibrary.Migrate.csproj.CopyComplete
+C:\Julius\Corporativo\dnn.julius2grow.com.co\DesktopModules\Julius.ContentLibrary.Migrate\obj\Release\Julius.ContentLibrary.Migrate.dll
+C:\Julius\Corporativo\dnn.julius2grow.com.co\DesktopModules\Julius.ContentLibrary.Migrate\obj\Release\Julius.ContentLibrary.Migrate.pdb
